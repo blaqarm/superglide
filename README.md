@@ -2,7 +2,7 @@
 
 ## Configuration
 Select the frame rate used in your game, then press Start.
-In-game, press TAB to activate Super Glide.
+In-game, press CAPS LOCK to activate Super Glide.
 
 ## Installation 
 
