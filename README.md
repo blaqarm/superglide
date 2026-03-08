@@ -12,7 +12,5 @@ cd project
 install dependencies
 python superglide.py
 
-
-
-```markdown
+```
 ![Pic](superglide.jpg)
